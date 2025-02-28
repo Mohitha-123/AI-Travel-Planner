@@ -37,4 +37,4 @@ Try it out on Hugging Face: https://huggingface.co/spaces/Mohitha/AI_Travel_Plan
 
 📬 Connect with Me
 💼 LinkedIn: 
-📂 GitHub: 
+📂 GitHub: https://github.com/Mohitha-123/AI-Travel-Planner
