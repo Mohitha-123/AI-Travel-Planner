@@ -17,7 +17,7 @@ mode = st.selectbox("🚗 Select Mode of Transport:", ["Train", "Flight", "Bus"]
 date = st.date_input("📅 Select Your Travel Date:")
 
 # OpenAI API Key
-api_key = "AIzaSyBItvysBggCo5T2iE61M209b24e36FmiBo"
+api_key = "API_Key"
 
 # Prompt Template
 prompt = ChatPromptTemplate(messages=[
