@@ -35,9 +35,6 @@ streamlit run app.py
 🔗 Live Demo
 Try it out on Hugging Face: https://huggingface.co/spaces/Mohitha/AI_Travel_Plan
 
-🙌 Acknowledgments
-A big thank you to my institute, mentors, and peers for their guidance and support in building this project! 🚀
-
 📬 Connect with Me
 💼 LinkedIn: 
 📂 GitHub: 
